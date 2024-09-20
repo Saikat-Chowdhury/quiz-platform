@@ -1,6 +1,6 @@
 # Quiz Platform README
 
-Welcome to the Quiz Platform project! This web application provides a platform for users to take quizzes on various subjects. The project is divided into a client-side and a server-side component.
+Welcome to the Quiz Platform project! This web application allows users to participate in quizzes covering various subjects. The project is structured into two parts: the front-end and the back-end.
 
 ## Purpose
 
