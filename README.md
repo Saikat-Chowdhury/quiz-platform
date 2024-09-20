@@ -18,8 +18,8 @@ The purpose of this project is to create a comprehensive quiz platform that allo
 
 To run the Quiz Platform locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/mohdaahad/quiz.git`
-2. Navigate to the project directory: `cd quiz`
+1. Clone the repository: `(git clone https://github.com/Saikat-Chowdhury/quiz-platform.git)`
+2. Navigate to the project directory: `cd quiz-platform`
 3. Install dependencies:
    - For the client:
      ```bash
